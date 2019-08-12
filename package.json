@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "main": "index.js",
-  "homepage": "https://AMLiveForm.github.io/enquiry/",
+  "homepage": "https://AMLiveForm.github.io/enquire/",
   "dependencies": {
     "@1stquad/react-bootstrap-datetimepicker": "^1.0.22",
     "@fortawesome/fontawesome-svg-core": "^1.2.21",
